@@ -1,4 +1,4 @@
-# Meekou.Fig
+# Meekou
 
 Meekou connector provides a powerful base functions. Using this connector, you can focus on implementing business logic without write duplicate operation to do basic operations.
 
@@ -76,19 +76,6 @@ htmlContent:
 
 No Authenticate required.
 
-## Getting Started
-
-Todo.
-
 ## Known Issues and Limitations
 
-Todo.
-
-## Frequently Asked Questions
-
-To do
-
-## Deployment Instructions
-
-To Do.
-
+There is no known issues.
